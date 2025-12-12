@@ -1,4 +1,5 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/1306c7c5-d73a-4f35-a877-eac4a44798ab" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/1c8126e4-d0b8-41c4-83d5-41aee42e3d3c" />
+
 
 
 📋 Система электронного документооборота (СЭД):
