@@ -93,17 +93,29 @@ DocumentManagementSystem/
 📸 Скриншоты
 1. Главное окно программы
 <img width="1918" height="1024" alt="image" src="https://github.com/user-attachments/assets/f473196d-d1a6-4253-94fc-a9b829903e7d" />
+
+
 2. Согласование документов
 <img width="1598" height="942" alt="image" src="https://github.com/user-attachments/assets/b79c6e1a-00ea-4e37-8394-91874c527966" />
+
+
 3. Создание документов
 <img width="742" height="743" alt="image" src="https://github.com/user-attachments/assets/f69ca2db-83cd-46c0-b229-93ee9efcd995" />
 <img width="726" height="156" alt="image" src="https://github.com/user-attachments/assets/7b04fa71-231f-42b3-9ded-00f26ab60d58" />
+
+
 4. Архив документов
 <img width="1580" height="849" alt="image" src="https://github.com/user-attachments/assets/a2485ccb-c34d-4837-af5a-d54591bce44a" />
+
+
 5. Диаграмма вариантов использования
 <img width="975" height="613" alt="image" src="https://github.com/user-attachments/assets/9900c049-ec98-49d9-964e-9e051e3838b1" />
 
-📬 Контакты
+
+
+📬 Контакты:
+
 Разработчик: 5w4g891
+
 Репозиторий: https://github.com/5w4g891/PM_01_Kyrsovaya
 
